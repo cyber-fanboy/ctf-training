@@ -187,6 +187,7 @@ After several months of intense research and consulting other top CTFers, this i
     * ret2usr
     * ret2dir
     * Slub Freelist Overwrite
+    * Double fetch
   * Browser Pwn
     * v8 Pwn
     * Wasm Pwn
