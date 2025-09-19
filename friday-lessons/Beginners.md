@@ -28,7 +28,7 @@ Another good introduction or explanation to CTFs is [here](https://securityintel
     * [PHP tutorial](https://www.w3schools.com/php/default.asp)
     * [Assembly tutorial](https://www.tutorialspoint.com/assembly_programming/index.htm)
 * Linux
-    * Having access a Linux environment is *SO* important, but we won't be covering Linux basics such as moving directories or creating files, etc. 
+    * Having access to a Linux environment is *SO* important, but we won't be covering Linux basics such as moving directories or creating files, etc. 
     * [Bandit wargame](https://overthewire.org/wargames/bandit/)
     * [Linux cheatsheet](https://linoxide.com/linux-commands-cheat-sheet/)
     * [Linux CLI tutorial](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
@@ -43,3 +43,4 @@ Another good introduction or explanation to CTFs is [here](https://securityintel
     * Git is used in almost every software development project, and it keeps track of previous changes. We will cover some interesting aspects of Git in the future, but understand what Git is and how it works is really important
     * [Version control tutorial](https://www.atlassian.com/git/tutorials/what-is-version-control)
     * [Git cheatsheet](https://i.redd.it/8341g68g1v7y.png)
+
