@@ -1,0 +1,12 @@
+# Useful OSINT resources
+### Tools
+[Shodan](https://shodan.io) - IoT device discovery.
+[Google Maps](https://www.google.com/maps) - For confirming geolocation theories.
+[Sherlock](https://github.com/sherlock-project/sherlock) - CLI tool for social media discovery, input a username and see if person has same username on a variety of websites.
+
+### Websites
+[TryHackMe](https://tryhackme.com/) - THM has some OSINT rooms to practice OSINT on.
+
+### Learning resources
+[FreeOSINT](https://freeosint.github.io/) - A useful website for understanding the methodology and toolset behind Open-source intelligence analysts. 
+[Geoguessr](https://www.geoguessr.com/) - A good way to practice your understanding of geolocation through looking at physical features in an image.
